@@ -13,6 +13,4 @@ The system allows users to **add, display, search, and delete students**. All da
 - Delete student by ID
 - Simple console-based interface
 
----
 
-## Folder Structure
